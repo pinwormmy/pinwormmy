@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @pinwormmy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+안녕하세요 요충이입니다.
 
-<!---
-pinwormmy/pinwormmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+자바-스프링 공부 중입니다.
+
+연락처는 ozkhan@naver.com 입니다.
+
+감사합니다!
