@@ -1,8 +1,8 @@
 이제 시작하는 백엔드 개발자
   
-스프링핵심기능 복습하기  
+스프링핵심기능 복습하기(AOP, 트랜젝션 등 많이 안 써본 것들 위주로...)   
 RestAPI FM으로 최대한 완벽하게 구현해보기  
-(Self descriptive message, HATEOAS)
+(Self descriptive message, HATEOAS)  
 호스팅하면서 리눅스, AWS 공부
 JPA 공부하기  
 DB 기준삼을 것 하나 골라서 좀더 세부적으로 공부하기  
